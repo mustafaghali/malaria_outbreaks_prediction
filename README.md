@@ -1,2 +1,2 @@
-# malaria_outbreaks_prediction
+# Malaria Outbreaks prediction
 to be edited later
