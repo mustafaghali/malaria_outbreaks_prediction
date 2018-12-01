@@ -8,7 +8,7 @@ Created on Sat Dec  1 16:00:31 2018
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-url = './Data/Africa_Vectors_database_1898-2016.csv'
+
 
 class cleandata:  
     
