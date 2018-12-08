@@ -1,6 +1,6 @@
 # Malaria outbreaks prediction
 
-![network architecure](https://github.com/mustafaghali/malaria_outbreaks_prediction/blob/master/modeling/Net.pdf)
+![network architecure](https://github.com/mustafaghali/malaria_outbreaks_prediction/blob/master/modeling/Net-Dark.png)
 
 A geo-coded inventory of anophelines has been modelled (spatio-temporally)
 to predict malaria outbreaks in Africa. After pre-processing the data, the
