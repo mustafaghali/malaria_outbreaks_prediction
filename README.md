@@ -8,6 +8,7 @@ specie types in which we used several methods for training and testing procedure
 classifcation and compared the performance of those models to select the
 most accurate one for our work. <br /> 
 We also tried predictions on the location of the possible next outbreak given the time and species types with two diferent approaches:<br /> 
-Latitude and longitude regression task and countrybased classifcation
+* Latitude and longitude regression task <br /> 
+* countrybased classifcation
 using MLP with residual connections using Pytorch framework.<br /> 
 ![network architecure](https://github.com/mustafaghali/malaria_outbreaks_prediction/blob/master/modeling/Net-Dark.png)
